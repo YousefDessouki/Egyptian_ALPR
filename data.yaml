@@ -1,0 +1,40 @@
+names:
+- '٠'
+- '١'
+- '٢'
+- '٣'
+- '٤'
+- '٥'
+- '٦'
+- '٧'
+- '٨'
+- '٩'
+- غ
+- ع
+- ا
+- ب
+- د
+- ف
+- ج
+- ه
+- ك
+- ل
+- م
+- ن
+- ر
+- ص
+- س
+- ط
+- و
+- ى
+- ز
+nc: 29
+roboflow:
+  license: Public Domain
+  project: plate-detect-oydq2
+  url: https://universe.roboflow.com/smart-ad-ezzae/plate-detect-oydq2/dataset/1
+  version: 1
+  workspace: smart-ad-ezzae
+test: /content/plate-detect-1/test/images
+train: /content/plate-detect-1/train/images
+val: /content/plate-detect-1/valid/images
